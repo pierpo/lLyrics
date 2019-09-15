@@ -1,3 +1,5 @@
+# WIP - I want to retrieve chords / tabs for songs on Rhythmbox the same way ILyrics retrieves lyrics
+
 lLyrics
 ===============
 
